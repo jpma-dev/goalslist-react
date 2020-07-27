@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goalslist-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/goalslist-react/static/js/main.cd0565b5.chunk.js",
+    "main.js.map": "/goalslist-react/static/js/main.cd0565b5.chunk.js.map",
+    "runtime-main.js": "/goalslist-react/static/js/runtime-main.e93a0863.js",
+    "runtime-main.js.map": "/goalslist-react/static/js/runtime-main.e93a0863.js.map",
+    "static/js/2.ebb06584.chunk.js": "/goalslist-react/static/js/2.ebb06584.chunk.js",
+    "static/js/2.ebb06584.chunk.js.map": "/goalslist-react/static/js/2.ebb06584.chunk.js.map",
+    "index.html": "/goalslist-react/index.html",
+    "precache-manifest.0dc51c1a4fd84c8d89d3e9bd5afa5fa8.js": "/goalslist-react/precache-manifest.0dc51c1a4fd84c8d89d3e9bd5afa5fa8.js",
+    "service-worker.js": "/goalslist-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/goalslist-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ebb06584.chunk.js.LICENSE.txt": "/goalslist-react/static/js/2.ebb06584.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/goalslist-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e93a0863.js",
+    "static/js/2.ebb06584.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cd0565b5.chunk.js"
+  ]
+}
