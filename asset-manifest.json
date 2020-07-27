@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goalslist-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/goalslist-react/static/js/main.cd0565b5.chunk.js",
-    "main.js.map": "/goalslist-react/static/js/main.cd0565b5.chunk.js.map",
+    "main.js": "/goalslist-react/static/js/main.d2fbbd18.chunk.js",
+    "main.js.map": "/goalslist-react/static/js/main.d2fbbd18.chunk.js.map",
     "runtime-main.js": "/goalslist-react/static/js/runtime-main.e93a0863.js",
     "runtime-main.js.map": "/goalslist-react/static/js/runtime-main.e93a0863.js.map",
     "static/js/2.ebb06584.chunk.js": "/goalslist-react/static/js/2.ebb06584.chunk.js",
     "static/js/2.ebb06584.chunk.js.map": "/goalslist-react/static/js/2.ebb06584.chunk.js.map",
     "index.html": "/goalslist-react/index.html",
-    "precache-manifest.0dc51c1a4fd84c8d89d3e9bd5afa5fa8.js": "/goalslist-react/precache-manifest.0dc51c1a4fd84c8d89d3e9bd5afa5fa8.js",
+    "precache-manifest.3ae88f4af97f941bcd1737da257e3722.js": "/goalslist-react/precache-manifest.3ae88f4af97f941bcd1737da257e3722.js",
     "service-worker.js": "/goalslist-react/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/goalslist-react/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.ebb06584.chunk.js.LICENSE.txt": "/goalslist-react/static/js/2.ebb06584.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e93a0863.js",
     "static/js/2.ebb06584.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cd0565b5.chunk.js"
+    "static/js/main.d2fbbd18.chunk.js"
   ]
 }
