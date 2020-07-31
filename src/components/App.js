@@ -2,25 +2,26 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload. Upload test
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+export default class App extends Component {
 
-export default App;
+  state = {
+    goals: []
+  }
+
+  addGoal = goal => {
+    const goals = [...this.state.goals, goal];
+    this.setState({goals});
+  }
+
+  render() {
+    const {goals} = this.state;
+    return (
+      <div className="container">
+        <div className="row">
+          <Form addGoal={this.addGoal} />
+          <Goals goals={goals} />
+        </div>
+      </div>
+    )
+  }
+}
