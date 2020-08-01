@@ -1,0 +1,50 @@
+label {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 500 !important;
+    color: #E4D6C4 !important;
+}
+
+input {
+    border: 1px solid #AC97C2 !important;
+    /*background-color: #1A0335 !important;*/
+    background-color: transparent !important;
+    color: white !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400 !important;
+}
+
+input::placeholder {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400 !important;
+}
+
+button {
+    margin-top: 3rem !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 700 !important;
+    border: none !important;
+    background-color: #C67100 !important;
+    text-transform: uppercase;
+    letter-spacing: .25rem;
+    color: white !important;
+}
+
+button:hover {
+    background-color: #ECAE5A !important;
+    cursor: pointer !important;
+}
+
+.form-block {
+    /*background-color: #0E021C;*/
+    margin-top: 8rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 1rem;
+}
+
+.title {
+    color: #E4D6C4 !important;
+    margin-bottom: 2rem !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 900 !important;
+}
