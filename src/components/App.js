@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import Form from './components/Form';
-import Goals from './components/Goals';
+import Form from './Form';
+import Goals from './Goals';
 import './App.css';
 
 export default class App extends Component {
