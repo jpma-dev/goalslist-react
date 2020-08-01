@@ -1,7 +1,7 @@
 import React from 'react';
 import './Form.css';
 
-export default function Goal(goal) {
+export default function Goal({goal}) {
     return (
         <li>
             <div className="row">
