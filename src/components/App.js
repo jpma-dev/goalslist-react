@@ -15,7 +15,7 @@ export default class App extends Component {
   }
 
   render() {
-    const {goals} = this.state;
+    const goals = this.state.goals;
     return (
       <div className="container">
         <div className="row">
