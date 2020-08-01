@@ -1,4 +1,6 @@
-import React from 'react';
+import React, {Component} from 'react';
+import Form from './components/Form';
+import Goals from './components/Goals';
 import './App.css';
 
 export default class App extends Component {

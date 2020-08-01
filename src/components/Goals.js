@@ -1,4 +1,5 @@
 import React from 'react';
+import Goal from './components/Goal';
 import './Form.css';
 
 export default function Goals({goals}) {
