@@ -48,3 +48,15 @@ button:hover {
     font-family: 'Roboto', sans-serif !important;
     font-weight: 900 !important;
 }
+
+.goal-title {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 500 !important;
+    color: #E4D6C4 !important;
+}
+
+.goal-numbers {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400 !important;
+    color: #E4D6C4 !important;
+}
