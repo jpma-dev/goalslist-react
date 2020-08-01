@@ -32,7 +32,9 @@ export default class Form extends Component {
 
     save = () => {
         this.props.addGoal(this.state);
-        $('#info').find('input').val('');
+        document.getElementById('txtName').value = '';
+        document.getElementById('txtCost').value = '';
+        document.getElementById('txtSavings').value = '';
     }
 
     render() {
